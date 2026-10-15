@@ -1,0 +1,4 @@
+vless://50414e45-4c5f-5a45-5553-39e10f34eaff@0.0.0.0:1?path=%2Fstream%2FPANEL_ZEUS%2F39e10f34eaff&security=none&encryption=none&host=0vzo70e6ufns.26zwsxe1u2ws.workers.dev&type=ws#%F0%9F%93%8A%20%7C%20%E2%80%8EUnlimited
+vless://50414e45-4c5f-5a45-5553-39e10f34eaff@0.0.0.0:1?path=%2Fstream%2FPANEL_ZEUS%2F39e10f34eaff&security=none&encryption=none&host=0vzo70e6ufns.26zwsxe1u2ws.workers.dev&type=ws#%E2%98%81%EF%B8%8F%20Multi-location%20France
+vless://50414e45-4c5f-5a45-5553-39e10f34eaff@c-1.mrcloudi.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F39e10f34eaff&security=tls&encryption=none&insecure=0&host=0vzo70e6ufns.26zwsxe1u2ws.workers.dev&type=ws&allowInsecure=0&sni=0vzo70e6ufns.26zwsxe1u2ws.workers.dev#France
+vless://50414e45-4c5f-5a45-5553-39e10f34eaff@c-2.mrcloudi.ir:443?path=%2Fstream%2FPANEL_ZEUS%2F39e10f34eaff&security=tls&encryption=none&insecure=0&host=0vzo70e6ufns.26zwsxe1u2ws.workers.dev&type=ws&allowInsecure=0&sni=0vzo70e6ufns.26zwsxe1u2ws.workers.dev#France
